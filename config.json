@@ -1,6 +1,6 @@
 {
-	"ip":"Your IP",
-	"port": "Your Port",
-	"name": "Name Bot",
+	"ip":"fazcblocksmp.aternos.me",
+	"port": "27275",
+	"name": "BOTMC",
 	"auto-night-skip":"false"
 }
